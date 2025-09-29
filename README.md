@@ -33,7 +33,20 @@ Eu vi, gostei e consegui adicionar algumas partes ao meu navegador usando as cap
 | Barra de favoritos/Tracking/Emergency Events/Volcanos | Active Volcanos | https://www.volcanodiscovery.com/erupting_vo | Page not found. |
 | Barra de favoritos/Tracking/Emergency Events/Asteroids/ | Asteroids Twitter Account | https://x.com/i/lists/124101625096638873 | Ih, esta página não existe. Tente buscar outra coisa.| 
 | Barra de favoritos/Tracking/Emergency Events/Air Quality | World's Air Pollution | http://waqui.info/ | Redirenciona para https://ww25.waqui.info/?subid1=20250928-1527-508e-84dd-e112ca138acf
-| /Downed Service Detector/ | Is it Down Or Just Me? | https://doj.me/ | Acho que o dominio foi comprado |
-| Barra de favoritos/Tracking/Emergency Events/Live Cyber Threat Maps | Imperva | https://www.imperva.com/cyber-threat-attack- | Redirecionado para https://www.imperva.com/404 404 Page was not found. But I’m here, and I come in peace.
-
-Curei até Barra de favoritos/Tracking/Emergency Events/Live Cyber Threat Maps/
+| Barra de favoritos/Tracking/Emergency Events/Downed Service Detector/ | Is it Down Or Just Me? | https://doj.me/ | Acho que o dominio foi comprado |
+| Barra de favoritos/Tracking/Emergency Events/Live Cyber Threat Maps/ | Imperva | https://www.imperva.com/cyber-threat-attack- | Redirecionado para https://www.imperva.com/404 404 Page was not found. But I’m here, and I come in peace.
+| Barra de favoritos/Tracking/Emergency Events/Radio/ | KiwiSDR | https://kiwisdr.com/public/ | Não é possível acessar esse site A conexão com kiwisdr.com foi recusada. Tente:  Verificar a conexão Verificar o proxy e o firewall ERR_CONNECTION_REFUSED |
+| Barra de favoritos/Tracking/Satellites/Maps/ | nakarte.me | https://nakarte.me/$m=8/49.73868/33.45886&I | 404 Not Found
+nginx/1.22.1 |
+| Barra de favoritos/Tracking/Satellites/Maps/| Satellites.pro | https://satellites.pro/ | Sorry, you have been blocked You are unable to access satellites.pro |
+| /Maps | Sentinel Playground Hub | https://apps.sentinel-hub.com/sentinel-playgro/ | 404 PAGE NOT FOUND Sorry we couldn't find what you were looking for. | 
+| /Satellites/Maps | Copernicus | https://scihub.copernicus.eu/dhus/#/home | Não é possível acessar esse site scihub.copernicus.eu demorou muito para responder. Tente: Verificar a conexão Verificar o proxy e o firewall Executar o Diagnóstico de Rede do Windows ERR_CONNECTION_TIMED_OUT|
+| /Satellites/Maps |  USA's Military Empire: A Visual Database - World BEYOND War | https://worldbeyondwar.org/no-bases/ | Redirecionado para https://worldbeyondwar.org/military-empires |
+| /Satellites/Maps/ | SkyFi - Satellite Imagery | https://app.skyfi.com/explore | Redirecionado para https://app.skyfi.com/explore/commercial |
+| /Satellites/Maps/Specialty Maps/ | Tweetmap | https://www.heavy.ai/demos/tweetmap?gdpr=1 |404 Page not found The page you are looking for doesn't exist or has been moved. | 
+| /Satellites/Maps/Specialty Maps/ |Sentinel-1 - Bellingcat Radar Interference Tracker| https://ollielballinger.users.earthengine.app/vie | Invalid trajectory! You've requested a page that doesn't exist. | 
+| /Satellites/Maps/Specialty Maps/ | Submarine Cable Map | https://www.submarinecablemap.com/submarin | 404 Page Not Found | 
+| /Satellites/Maps/Specialty Maps/ | Light Pollution Map |https://www.lightpollutionmap.info/zoom%201.7. |Not Found The requested URL was not found on this server. Apache/2.4.58 (Ubuntu) Server at www.lightpollutionmap.info Port 443| 
+| /Satellites/Maps/Specialty Maps/ | OpenSnowMap | http://www.opensnowmap.org/map-4/0/308 | Not Found The requested URL was not found on this server. Apache/2.4.65 (Debian) Server at www.opensnowmap.org Port 443 |
+| /Satellites/Maps/Specialty Maps/ | world Map of Lighthouses | http://beacons.schmitter.de/en/world%20htmlermap| Não é possível acessar esse site Verifique se há um erro de digitação em beacons.schmitter. . Se o endereço estiver correto, tente executar o Diagnóstico de Rede do Windows.  NS_PROBE_FINISHED_NXDOMAIN |
+| /Satellites/Maps/Specialty Maps/  | The Best Route Planner for Cycling, Walking, Hiking and Running \| Komoot | https://www.komcot.com/plan/41.0991000-7 | Não é possível acessar esse site Verifique se há um erro de digitação em www.komcot.com. Se o endereço estiver correto, tente executar o Diagnóstico de Rede do Windows. DNS_PROBE_FINISHED_NXDOMAIN |
